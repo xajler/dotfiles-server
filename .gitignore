@@ -4,3 +4,6 @@ tmp
 .cache
 .viminfo
 .vimfuzzyfinder
+.gem/
+.rbenv/
+.vim/.netrwhist
